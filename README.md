@@ -97,6 +97,7 @@ SELECT *
 FROM comments_by_running_race;
 
 Include some screenshots!
+![Test Image 1](https://github.com/PeterJohansson309/learning-with-Astra/blob/master/SELECTSATSCASSANDRA.JPG)
 
 ## Experiment with CRUD and show the outputs: ##
 
