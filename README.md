@@ -8,6 +8,10 @@ Pick an example application that you could see on Astra and describe the entitie
 
 Include diagrams, screenshots etc to make it more interesting and better convey your ideas.
 
+A result application for running races
+
+
+
 ## Create your own tables on Astra ##
 
 Example tables that we used in the workshop:
