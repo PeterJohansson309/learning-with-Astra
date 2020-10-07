@@ -131,6 +131,8 @@ WHERE running_race_id = 11111111-1111-1111-1111-111111111111 AND commentid = 111
 SELECT * FROM running_race_by_runner;
 SELECT * FROM comments_by_running_race;
 
+![Test Image 2](https://github.com/PeterJohansson309/learning-with-Astra/blob/master/SELECTSATSCASSANDRA2.JPG)
+
 Try something different:
 
 Check out the CQL reference and try commands that we did not use in the workshop:
@@ -151,6 +153,8 @@ WHERE runnerid = 11111111-1111-1111-1111-111111111111 and running_race_id = 1234
 IF placement = 50;
 
 SELECT * FROM running_race_by_runner;
+
+![Test Image 3](https://github.com/PeterJohansson309/learning-with-Astra/blob/master/SELECTSATSCASSANDRA3.JPG)
 
 Or connect, read and write to your Astra database via other methods.
 
